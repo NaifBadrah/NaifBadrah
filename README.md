@@ -29,12 +29,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="190" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczN0eDFjYWM0ajZjejBtamt4cjhqeDNzdzZmYXJ5czRlbGZqMWlhZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SpopD7IQN2gK3qN4jS/giphy.gif"  />
-
-###
-
 <div align="left">
   <a href="https://www.instagram.com/9.n1o?igsh=MW0zamh2Y2twM2RzYw%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
