@@ -17,16 +17,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
 </div>
 
-###
-
-<h4 align="left">content with me</h4>
-
-###
-
-<div align="left">
-  <a href="https://x.com/9_n2o?s=21" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
 
 ###
